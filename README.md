@@ -1,5 +1,10 @@
 # Measuring-Grant-Performance-in-Under-Developed-TN-Counties
 
+**Dashboard Link**
+
+[Tableau](https://public.tableau.com/profile/jeff.davis8812#!/vizhome/ecd_dashboard/Dashboard1?publish=yes)
+
+
 **Background**
 
 The primary goal of the Tennessee Department of Economic and Community Development (TNECD) is to incentivize business investment and expansion within state. Incentives and grants are used to attract investment to regions of the state that are underdeveloped.  
@@ -24,7 +29,4 @@ Link and Data Sources
 
 https://tnecd.com/advantages/incentives-grants/
 
-**Dashboard Link**
-
-https://public.tableau.com/profile/jeff.davis8812#!/vizhome/ecd_dashboard/Dashboard1?publish=yes
 
